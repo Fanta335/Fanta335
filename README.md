@@ -6,10 +6,10 @@
 
 ### 🌱 I’m currently learning ...
 - JavaScript
+- TypeScript
 - Java
 
 ### :rocket: I want to learn ...
-- TypeScript
 - PHP
 
 
