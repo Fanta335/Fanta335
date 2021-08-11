@@ -11,6 +11,7 @@
 
 ### :rocket: I want to learn ...
 - PHP
+- Python
 
 
 <!--
