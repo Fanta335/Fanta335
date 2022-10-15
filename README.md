@@ -1,18 +1,4 @@
-### Hi there 👋 こんにちは！
-
 ![Fanta335's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanta335&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanta335&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 🌱 I’m currently learning ...
-- JavaScript
-- TypeScript
-- Java
-
-### :rocket: I want to learn ...
-- PHP
-- Python
-
 
 <!--
 **Fanta335/Fanta335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
